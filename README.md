@@ -1,4 +1,4 @@
-# CurveShader
+# ImageShader
 
 ## Setup
 npm install
